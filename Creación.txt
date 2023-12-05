@@ -1,0 +1,19 @@
+Crear back
+npm init
+npm i express
+Creamos el archivo index.js
+npm i -D nodemon 
+añadimos en package.json -> "dev" : "nodemon index.js" y "type": "module",
+npm i sequelize
+npm i mysql2
+npm i cors
+
+Crear Front
+npm create vite@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i react-router-dom
+npm i react-icons
+npm i @material-tailwind/react
+npm i axios
+
